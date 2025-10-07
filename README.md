@@ -14,12 +14,12 @@ Features:
 -Easy to extend and integrate into larger data workflows
 #
 Installation
-#
+###
 1.Clone the repository:
 
 git clone https://github.com/Msnithi/CobuildX.ai1.git
 cd CobuildX.ai1
-#
+###
 2.Create a virtual environment (Optional):
 
 python -m venv .venv
@@ -27,7 +27,7 @@ source .venv/Scripts/activate  # Windows
 # or
 source .venv/bin/activate      # macOS/Linux
 
-#
+###
 3.Install dependencies:
 
 pip install -r requirements.txt
