@@ -1,0 +1,12 @@
+[project]
+name = "cobuildx-ai1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=2.2.0",
+    "pandas>=2.3.3",
+    "pydantic>=2.11.10",
+    "python-dotenv>=1.1.1",
+]

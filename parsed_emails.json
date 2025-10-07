@@ -1,0 +1,262 @@
+[
+    {
+        "email": "john.smith@capgemini.com",
+        "name": "John Smith",
+        "company": "Capgemini"
+    },
+    {
+        "email": "priya.brown@wipro.com",
+        "name": "Priya Brown",
+        "company": "Wipro"
+    },
+    {
+        "email": "ahmed.doe@accenture.com",
+        "name": "Ahmed Doe",
+        "company": "Accenture"
+    },
+    {
+        "email": "abc123@unknowncompany.xyz",
+        "name": "Abc",
+        "company": "Unknowncompany"
+    },
+    {
+        "email": "x_y_z@randomdomain.io",
+        "name": "XYX",
+        "company": "Randomdomain"
+    },
+    {
+        "email": "user9876@weirdname.biz",
+        "name": "User",
+        "company": "Weirdname"
+    },
+    {
+        "email": "mystery.user@asdfghjkl.com",
+        "name": "Mystery User",
+        "company": "Asdfghjkl"
+    },
+    {
+        "email": "no.name@qwerty123.net",
+        "name": "No Name",
+        "company": "Qwerty"
+    },
+    {
+        "email": "someone@random-org-99.co",
+        "name": "Someone",
+        "company": "Random"
+    },
+    {
+        "email": "first.last+test@example.com",
+        "name": "First Last",
+        "company": "Example"
+    },
+    {
+        "email": "user_name-with-hyphen@mydomain.org",
+        "name": "User Name With Hyphen",
+        "company": "Mydomain"
+    },
+    {
+        "email": "!special*chars@funky-domain.co",
+        "name": "NA",
+        "company": "Funkydomain"
+    },
+    {
+        "email": "....dots....@dots.com",
+        "name": "NA",
+        "company": "Dots"
+    },
+    {
+        "email": "_underscore_@example.com",
+        "name": "NA",
+        "company": "Example"
+    },
+    {
+        "email": "123456@numbersonly.com",
+        "name": "NA",
+        "company": "Numbersonly"
+    },
+    {
+        "email": "9876543210@numbers.biz",
+        "name": "NA",
+        "company": "Numbers"
+    },
+    {
+        "email": "nan",
+        "name": "NA",
+        "company": "NA"
+    },
+    {
+        "email": "user..input@formmail.com",
+        "name": "Userinput",
+        "company": "Formmail"
+    },
+    {
+        "email": "someone@googl.com",
+        "name": "Someone",
+        "company": "Googl"
+    },
+    {
+        "email": "test_email@random-site123.com",
+        "name": "TestEmail",
+        "company": "Randomsite"
+    },
+    {
+        "email": "abc@@doubleat.com",
+        "name": "NA",
+        "company": "Doubleat"
+    },
+    {
+        "email": "justtextwithoutat.com",
+        "name": "NA",
+        "company": "NA"
+    },
+    {
+        "email": "josé.lópez@empresa.es",
+        "name": "José López",
+        "company": "Empresa"
+    },
+    {
+        "email": "chloé.dubois@entreprise.fr",
+        "name": "Chloé Dubois",
+        "company": "Entreprise"
+    },
+    {
+        "email": "müller@firma.de",
+        "name": "Müller",
+        "company": "Firma"
+    },
+    {
+        "email": "naïve@exemple.fr",
+        "name": "Naïve",
+        "company": "Exemple"
+    },
+    {
+        "email": "+plus+signs@plusdomain.com",
+        "name": "NA",
+        "company": "Plusdomain"
+    },
+    {
+        "email": "dots....dots@dots.com",
+        "name": "Dots Dots",
+        "company": "Dots"
+    },
+    {
+        "email": "-dash-start@dashdomain.com",
+        "name": "NA",
+        "company": "Dashdomain"
+    },
+    {
+        "email": "dash-end-@dashdomain.com",
+        "name": "Dash End",
+        "company": "Dashdomain"
+    },
+    {
+        "email": ".dotstart@dotdomain.com",
+        "name": "NA",
+        "company": "Dotdomain"
+    },
+    {
+        "email": "dotend.@dotdomain.com",
+        "name": "Dotend",
+        "company": "Dotdomain"
+    },
+    {
+        "email": "multiple..dots@dots.com",
+        "name": "MultipleDots",
+        "company": "Dots"
+    },
+    {
+        "email": "emoji🙂@fun.com",
+        "name": "NA",
+        "company": "Fun"
+    },
+    {
+        "email": "spaces notallowed@space.com",
+        "name": "Spacesnotallowed",
+        "company": "Space"
+    },
+    {
+        "email": "tab\tchar@tab.com",
+        "name": "Tabchar",
+        "company": "Tab"
+    },
+    {
+        "email": "char@line.com",
+        "name": "Char",
+        "company": "Line"
+    },
+    {
+        "email": "quotes\"@quotes.com",
+        "name": "NA",
+        "company": "Quotes"
+    },
+    {
+        "email": "brackets[]@bracket.com",
+        "name": "NA",
+        "company": "Bracket"
+    },
+    {
+        "email": "curly{}@curly.com",
+        "name": "Curly",
+        "company": "Curly"
+    },
+    {
+        "email": "semicolon;@semi.com",
+        "name": "NA",
+        "company": "Semi"
+    },
+    {
+        "email": "pipe|@pipe.com",
+        "name": "NA",
+        "company": "Pipe"
+    },
+    {
+        "email": "backslash\\@slash.com",
+        "name": "NA",
+        "company": "NA"
+    },
+    {
+        "email": "slash/@slash.com",
+        "name": "NA",
+        "company": "Slash"
+    },
+    {
+        "email": "caret^@caret.com",
+        "name": "NA",
+        "company": "Caret"
+    },
+    {
+        "email": "ampersand&@amp.com",
+        "name": "NA",
+        "company": "Amp"
+    },
+    {
+        "email": "percent%@percent.com",
+        "name": "NA",
+        "company": "Percent"
+    },
+    {
+        "email": "dollar$@dollar.com",
+        "name": "NA",
+        "company": "Dollar"
+    },
+    {
+        "email": "hash#@hash.com",
+        "name": "NA",
+        "company": "Hash"
+    },
+    {
+        "email": "asterisk*@asterisk.com",
+        "name": "NA",
+        "company": "Asterisk"
+    },
+    {
+        "email": "question?@question.com",
+        "name": "NA",
+        "company": "Question"
+    },
+    {
+        "email": "exclaim!@exclaim.com",
+        "name": "NA",
+        "company": "Exclaim"
+    }
+]
