@@ -24,7 +24,7 @@ cd CobuildX.ai1
 
 python -m venv .venv
 source .venv/Scripts/activate  # Windows
-# or
+###
 source .venv/bin/activate      # macOS/Linux
 
 ###
@@ -32,7 +32,7 @@ source .venv/bin/activate      # macOS/Linux
 
 pip install -r requirements.txt
 #
-Usage
+Usage:
 
 Run the main Python script:
 
@@ -40,7 +40,3 @@ python t.py
 
 ###
 Adjust scripts or input files as needed for your data sources.
-#
-Contributing
-
-Contributions are welcome! Please follow GitHub’s standard workflow: fork → branch → commit → pull request.
