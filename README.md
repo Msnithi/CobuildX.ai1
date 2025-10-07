@@ -20,8 +20,8 @@ Clone the repository:
 git clone https://github.com/Msnithi/CobuildX.ai1.git
 cd CobuildX.ai1
 
-
-(Optional) Create a virtual environment:
+#
+Create a virtual environment (Optional):
 
 python -m venv .venv
 source .venv/Scripts/activate  # Windows
