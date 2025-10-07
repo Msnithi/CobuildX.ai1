@@ -12,16 +12,15 @@ Features:
 -Generate strictly valid JSON for downstream applications
 
 -Easy to extend and integrate into larger data workflows
-
--Installation
 #
-Clone the repository:
+Installation
+#
+1.Clone the repository:
 
 git clone https://github.com/Msnithi/CobuildX.ai1.git
 cd CobuildX.ai1
-
 #
-Create a virtual environment (Optional):
+2.Create a virtual environment (Optional):
 
 python -m venv .venv
 source .venv/Scripts/activate  # Windows
@@ -29,17 +28,17 @@ source .venv/Scripts/activate  # Windows
 source .venv/bin/activate      # macOS/Linux
 
 #
-Install dependencies:
+3.Install dependencies:
 
 pip install -r requirements.txt
-
+#
 Usage
 
 Run the main Python script:
 
 python t.py
 
-
+###
 Adjust scripts or input files as needed for your data sources.
 #
 Contributing
